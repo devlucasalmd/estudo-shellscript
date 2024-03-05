@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+MY_MESSAGE="Hello World"
+SHORT_MESSAGE=Oi
+NUMBER=1
+PY=3.142
+OTHER_PY="3.142"
+MIXED=123ABC
+
+#TESTANDO= OI TESTE   		ERRADO
+#TESTANDO = OI						ERRADO
+
+echo $MY_MESSAGE
+echo $SHORT_MESSAGE
+echo $NUMBER
+echo $PY
+echo $OTHER_PY
+echo $MIXED
+
+
+
+
